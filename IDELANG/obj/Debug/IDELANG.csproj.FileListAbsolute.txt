@@ -1,0 +1,10 @@
+C:\Users\Teresita Meza\Desktop\IDELANG\IDELANG\bin\Debug\IDELANG.exe
+C:\Users\Teresita Meza\Desktop\IDELANG\IDELANG\bin\Debug\IDELANG.pdb
+C:\Users\Teresita Meza\Desktop\IDELANG\IDELANG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Teresita Meza\Desktop\IDELANG\IDELANG\obj\Debug\IDELANG.Form1.resources
+C:\Users\Teresita Meza\Desktop\IDELANG\IDELANG\obj\Debug\IDELANG.Properties.Resources.resources
+C:\Users\Teresita Meza\Desktop\IDELANG\IDELANG\obj\Debug\IDELANG.csproj.GenerateResource.Cache
+C:\Users\Teresita Meza\Desktop\IDELANG\IDELANG\obj\Debug\IDELANG.exe
+C:\Users\Teresita Meza\Desktop\IDELANG\IDELANG\obj\Debug\IDELANG.pdb
+D:\IDELANG\IDELANG\obj\Debug\IDELANG.exe
+D:\IDELANG\IDELANG\obj\Debug\IDELANG.pdb
